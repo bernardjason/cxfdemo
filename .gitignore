@@ -1,0 +1,14 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/bin/
+/global-groovy.log
+/soapui-errors.log
+/soapui.log
+/log
+/logs
